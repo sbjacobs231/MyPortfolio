@@ -128,7 +128,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/kick.jpg) no-repeat top center;
+   background: #161415 url(../images/surf.gif) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -186,7 +186,7 @@ header .banner-text hr {
 }
 
 .header-overlay {  
-  background: #161415 url(../images/kick-blur.jpg) no-repeat top center;     
+  background: #161415 url(../images/surf-blur.jpg) no-repeat top center;     
   background-size:  cover!important;
   position: absolute;
   top: 0;
@@ -552,7 +552,7 @@ ul#nav li a:hover {
    font: 25px/30px 'Open Sans', sans-serif;
    font-weight: 700;
    text-transform: uppercase;
-   color: #666;
+   color: black;
 }
 
 #resume .section-title:after {
@@ -835,7 +835,7 @@ ul#nav li a:hover {
 }
 
 /* ------------------------------------------------------------------ */
-/* Awards/Recognition Section
+/* New Skills
 /* ------------------------------------------------------------------ */
 
 .award-list ul li {
@@ -861,6 +861,10 @@ ul#nav li a:hover {
   line-height: 20px;
 }
 
+.black {
+  color: black;
+}
+
 
 
 /* ------------------------------------------------------------------ */
@@ -868,7 +872,7 @@ ul#nav li a:hover {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: url(../images/paint-blur.jpg) no-repeat fixed center center / cover;
+   background: url(../images/blossoms.jpg) no-repeat fixed center center / cover;
    padding-top: 90px;
    padding-bottom: 60px;
 }
