@@ -1147,11 +1147,21 @@ ul#nav li a:hover {
   color: #95A3A3;
 }
 
-
-
 #testimonials .header-col { 
   padding-top: 9px; 
 }
+
+/*  Testimonial Images*/
+#testimonials .image-box {
+  text-align: center;
+}
+
+#testimonials .testimonial-image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
 
 /*	Blockquotes */
 #testimonials blockquote {

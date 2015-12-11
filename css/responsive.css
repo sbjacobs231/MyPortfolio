@@ -46,16 +46,23 @@ TOC :
 
 }
 
-/* screenwidth less than 1048
+/* screenwidth less than 1050px
 --------------------------------------------------------------------- */
-@media only screen and (max-width: 1048) {
+@media only screen and (max-width: 1050px) {
   /* Ninja Skills
   --------------------------------------------------------------------- */
-/*  #resume .six.columns.award-list {
-    display: block;
+  #resume .main-col {
+    padding-right: 0;
   }
 }
-*/
+
+/* screenwidth less than 910px
+--------------------------------------------------------------------- */
+@media only screen and (max-width: 910px) {
+  div.six.columns.award-list {
+    float: none;
+  }
+}
 
 
 /* screenwidth less than 900px
