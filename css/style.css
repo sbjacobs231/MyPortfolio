@@ -43,7 +43,7 @@ body { background: #0f0f0f; overflow-y: hidden; }
   -ms-transition: all .3s;
   -o-transition: all .3s;
 }
-
+/*
 .section-title:after {
   background: none repeat scroll 0 0 #fff;
   bottom: -15px;
@@ -55,7 +55,7 @@ body { background: #0f0f0f; overflow-y: hidden; }
   position: absolute;
   font-family: "FontAwesome";
 }
-
+*/
 /* ------------------------------------------------------------------ */
 /* 2. Preloader CSS */ 
 /* ------------------------------------------------------------------ */
@@ -554,14 +554,13 @@ ul#nav li a:hover {
    text-transform: uppercase;
    color: black;
 }
-
+/*
 #resume .section-title:after {
   background: #fff;
   color: #666;
   content: "\f02d";
 }
-
-
+*/
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
@@ -886,13 +885,13 @@ ul#nav li a:hover {
 #portfolio h1:hover {
    border-color: #ddd;
 }
-
+/*
 #portfolio .section-title:after {
   background: transparent;
   content: "\f0b1";
   color: #fff;
 }
-
+*/
 
 .btn-close {
   background: #ed5565;
@@ -1140,13 +1139,13 @@ ul#nav li a:hover {
 #testimonials h1 span { 
   display: block; 
 }
-
+/*
 #testimonials .section-title:after {
   background: #F1F1F1;
   content: "\f0e6";
   color: #95A3A3;
 }
-
+*/
 #testimonials .header-col { 
   padding-top: 9px; 
 }
@@ -1214,13 +1213,13 @@ ul#nav li a:hover {
 #contact h1:hover {
    border-color: #fff;
  }
-
+/*
 #contact .section-title:after {
   background: #191919;
   content: "\f003";
   color: #888;
 }
-
+*/
 
 #contact h4 {
    font: 16px/24px 'Open Sans', sans-serif;
