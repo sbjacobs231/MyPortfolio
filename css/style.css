@@ -554,6 +554,9 @@ ul#nav li a:hover {
    text-transform: uppercase;
    color: black;
 }
+.kick-icon {
+  margin-top: 20px;
+}
 /*
 #resume .section-title:after {
   background: #fff;
