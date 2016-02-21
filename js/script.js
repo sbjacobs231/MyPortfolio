@@ -218,9 +218,17 @@ function parallax() {
       });
       return false;
    });
-
-
 });
+
+//About section
+$(document).ready(function() {
+  var bioLeft = $('.bio-left')
+  var mainCol = $('.main-col')
+  bioLeft.height(mainCol.height())
+})
+
+
+
 
 
 
